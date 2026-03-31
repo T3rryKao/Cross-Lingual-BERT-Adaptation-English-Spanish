@@ -58,13 +58,6 @@ python -m venv .venv
 pip install transformers datasets accelerate sentencepiece evaluate pandas matplotlib seaborn torch
 ```
 
-### Shortcut
-Feel free to use the preprocessed files [in my google drive](https://drive.google.com/drive/folders/1dLkJYV8A8aN9qgWBd936RLM8INx6vHI7?usp=sharing) for running the experiment to save a good amount of time! 
-
-- `processed/train.txt`
-- `processed/valid.txt`
-
-But for the whole process...
 
 ## Dataset
 
